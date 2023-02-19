@@ -15,3 +15,5 @@ This repository is created to help junior / new engineerings grasp a better unde
 - Redis
 - Artifactory
 - Concourse
+- Cucumber / E2E Tests
+- Junit
