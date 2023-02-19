@@ -6,6 +6,8 @@ This repository is created to help junior / new engineerings grasp a better unde
 2. Library-Service
 3. Eureka-Server
 4. DynamoDb-Connector
+5. Concourse-Resources
+6. app-config
 
 # Technologies
 - Java / Spring
